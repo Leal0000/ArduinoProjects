@@ -5,8 +5,8 @@
 
 
 WiFiClient wificlient;
-const char* ssid = "IZZI-JUAN PABLO";
-const char* password =  "24442654";
+const char* ssid = "";
+const char* password =  "";
 
 String user = "chocolate";
 String pass = "141414";
