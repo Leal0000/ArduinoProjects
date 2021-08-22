@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-const char* ssid = "IZZI-JUAN PABLO";
-const char* password = "24442654";
+const char* ssid = "";
+const char* password = "";
 char server[] = "heroku-flas.herokuapp.com";
 String user = "pedro";
 String pass = "cualquiera";
